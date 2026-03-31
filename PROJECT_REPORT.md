@@ -1,6 +1,5 @@
 # Project Report — SMS / Email Spam Classifier
 
-**Course:** Aerospace Engineering
 **Student:** Ankita Sharma  
 **Roll No:** 25BAS10041  
 **Institution:** VIT Bhopal University  
